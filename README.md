@@ -43,6 +43,9 @@ python draw_temporal_image.py \
 ## 🚀 Training
 1. The training code is at ```./train.py```.
 2. The relevant script can be found at ```scripts/train_{dataset_name}.sh```.
+```
+sh ./scripts/train_{dataset_name}.sh
+```
 
 ## 📚 Citation
 ```
