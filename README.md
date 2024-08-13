@@ -11,7 +11,7 @@ This is the official pytorch implementation of LITE: Modeling Environmental Ecos
 
 ## :clipboard: To Do
  - [x] upload pre-processing scripts
- - [ ] upload model
+ - [x] upload model
  - [ ] upload training scripts
 
 
