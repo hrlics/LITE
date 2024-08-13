@@ -14,6 +14,20 @@ This is the official pytorch implementation of LITE: Modeling Environmental Ecos
  - [x] upload model
  - [ ] upload training scripts
 
+## :memo: Requirements
+1. Clone this repository and navigate to LITE folder.
+```
+git clone https://github.com/hrlics/LITE.git
+cd LITE
+```
+2. Install packages.
+```
+conda create -n LITE python=3.10 -y
+conda activate LITE
+pip install -r requirements.txt
+```
+
+
 
 ## 📦 Preparation
 1. Save the environmental data in the format of Hugging Face Datasets. Suppose it is tabular data, with N features and 1 target variable.
