@@ -28,7 +28,6 @@ pip install -r requirements.txt
 ```
 
 
-
 ## 📦 Preparation
 1. Save the environmental data in the format of Hugging Face Datasets. Suppose it is tabular data, with N features and 1 target variable.
 2. Construct temporal trend images.
@@ -41,5 +40,16 @@ python draw_temporal_image.py \
  --len_look_back look_back_window_size (default:30)
 ```
 
+## 🚀 Training
+1. The training code is at ```./train.py```.
+2. The relevant script can be found at ```scripts/train_{dataset_name}.sh```.
 
-
+## 📚 Citation
+```
+@article{li2024lite,
+  title={LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models},
+  author={Li, Haoran and Liu, Junqi and Wang, Zexian and Luo, Shiyuan and Jia, Xiaowei and Yao, Huaxiu},
+  journal={arXiv preprint arXiv:2404.01165},
+  year={2024}
+}
+```
