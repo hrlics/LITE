@@ -1,18 +1,15 @@
-# :bulb: LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models
+# :bulb: [COLM 2024] LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models
 
-![Static Badge](https://img.shields.io/badge/License-MIT-green) [![Static Badge](https://img.shields.io/badge/Paper-Arxiv-red)](https://arxiv.org/abs/2404.01165)
+![Static Badge](https://img.shields.io/badge/License-MIT-green) [![Static Badge](https://img.shields.io/badge/Paper-COLM_2024-red)](https://arxiv.org/abs/2404.01165)
 
-This is the official pytorch implementation of LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models <a href="https://arxiv.org/abs/2404.01165" style="text-decoration:none;">[paper]</a>.
+This is the official pytorch implementation of the following paper at COLM 2024:
+
+_LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models_ <a href="https://arxiv.org/abs/2404.01165" style="text-decoration:none;">[paper]</a>.
 
 <p align="center">
  <img src="./assets/LITE.jpg" alt="Model Figure" width="800"/>
 </p>
 
-
-## :clipboard: To Do
- - [x] upload pre-processing scripts
- - [x] upload model
- - [ ] upload training scripts
 
 ## :memo: Requirements
 1. Clone this repository and navigate to LITE folder.
