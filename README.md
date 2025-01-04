@@ -1,14 +1,13 @@
-# :bulb: [COLM 2024] LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models
+<h3 align="center"><a href="https://openreview.net/pdf?id=DRffhKBVlE" style="color:#9C276A">
+:bulb: LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models</a></h3>
 
-![Static Badge](https://img.shields.io/badge/License-MIT-green) [![Static Badge](https://img.shields.io/badge/Paper-COLM_2024-red)](https://arxiv.org/abs/2404.01165)
+<h5 align="center">
+ 
+![Static Badge](https://img.shields.io/badge/License-MIT-green) 
+[![Static Badge](https://img.shields.io/badge/Paper-COLM_2024-red)](https://openreview.net/pdf?id=DRffhKBVlE)
+</h5>
 
-This is the official pytorch implementation of the following paper at COLM 2024:
 
-_LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models_ <a href="https://arxiv.org/abs/2404.01165" style="text-decoration:none;">[paper]</a>.
-
-<p align="center">
- <img src="./assets/LITE.jpg" alt="Model Figure" width="800"/>
-</p>
 
 
 ## :memo: Requirements
