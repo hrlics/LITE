@@ -44,6 +44,7 @@ sh ./scripts/train_{dataset_name}.sh
 ```
 
 ## 📚 Citation
+If you find our work useful, please consider citing:
 ```
 @article{li2024lite,
   title={LITE: Modeling Environmental Ecosystems with Multimodal Large Language Models},
